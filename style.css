@@ -223,3 +223,49 @@ ul.info li .dt
     padding-bottom: 0;
     margin-bottom: 30px;
 }
+
+/* Ad section */
+
+.ad-section
+{
+    padding: 30px 13%;
+}
+
+.ad-section #ad-background
+{
+    background-color: #4169E1;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 13%;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.ad-text h3
+{
+    font-size: 28px;
+    color: #D3D3D3;
+    margin-bottom: 16px;
+}
+
+.ad-text div
+{
+    font-size: 20px;
+    width: 71%;
+    margin-bottom: 28px;
+    color: #1f2937;
+    font-weight: bold;
+}
+
+.ad-section input
+{
+    background-color: #4169E1;
+    width: 250px;
+    height: 75px;
+    border-radius: 10px;
+    font-size: 40px;
+    border: solid #e5e7eb 2px;
+    color: #e5e7eb;
+    font-weight: bold;
+    
+}
