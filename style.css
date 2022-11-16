@@ -179,3 +179,47 @@ ul.info li .dt
     font-weight: bold;
     color: #6082B6;
 }
+
+/* Quote section */
+
+.quote-section
+{
+    background-color: #e5e7eb;
+    margin-top: 32px;
+}
+
+.quote-section div
+{
+    padding: 30px 13%;
+}
+
+#quote
+{
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+}
+
+#author
+{
+    text-align: right;
+    color: #708090;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: light;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#episode
+{
+    text-align: right;
+    color: #7393B3;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: light;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 30px;
+}
